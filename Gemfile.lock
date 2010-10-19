@@ -41,16 +41,6 @@ GEM
     mime-types (1.16)
     nifty-generators (0.4.2)
     polyglot (0.3.1)
-    prawn (0.8.4)
-      prawn-core (>= 0.8.4, < 0.9)
-      prawn-layout (>= 0.8.4, < 0.9)
-      prawn-security (>= 0.8.4, < 0.9)
-    prawn-core (0.8.4)
-    prawn-layout (0.8.4)
-    prawn-security (0.8.4)
-    prawnto (0.0.3)
-      prawn
-      rails (>= 2.1)
     rack (1.2.1)
     rack-mount (0.6.13)
       rack (>= 1.0.0)
@@ -81,7 +71,5 @@ PLATFORMS
 
 DEPENDENCIES
   nifty-generators
-  prawn
-  prawnto
   rails (= 3.0.1)
   sqlite3-ruby
