@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nome: MyString
+  preco: 9.99
+
+two:
+  nome: MyString
+  preco: 9.99
