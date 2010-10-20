@@ -7,7 +7,7 @@ gem 'rails', '3.0.1'
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem "nifty-generators"
-gem 'prawn', :git=>"http://github.com/sandal/prawn", :tag=>'0.10.2', :submodules=>true
+gem 'prawn', :git=>"git://github.com/sandal/prawn", :tag=>'0.10.2', :submodules=>true
 
 # Use unicorn as the web server
 # gem 'unicorn'
